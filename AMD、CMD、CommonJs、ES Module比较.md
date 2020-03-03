@@ -275,3 +275,5 @@ console.log(people); // 一个module对象 { name: 'likang xie', sayName: ....}
 import { name, sayName } from 'b.js';
 ```
 
+### 引用：[ES6在浏览器中使用](https://segmentfault.com/a/1190000014342718)
+
